@@ -1,0 +1,7 @@
+{
+  "name": "Target Blank",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
